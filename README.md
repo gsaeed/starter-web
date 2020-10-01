@@ -15,3 +15,7 @@ more fake deploy messages
 ## How to Contribute
 
 Sample website with plenty of files for demos
+
+## Copyright
+
+gc Copyright
