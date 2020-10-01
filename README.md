@@ -15,6 +15,7 @@ more fake deploy messages
 ## How to Contribute
 
 Sample website with plenty of files for demos
+please fork this repo and issue pull requests for review
 
 ## Copyright
 
