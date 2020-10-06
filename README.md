@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work.  Github diff test
 
 Fake intro text
 More fake lines
+more changes from myFeature branch
 
 ## Purpose
 adding some fake purpose
