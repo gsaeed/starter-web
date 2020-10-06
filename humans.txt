@@ -5,10 +5,12 @@
 
     George GC
 	Dave   DC
+	Steve S
+
 
 # THANKS
 
-    <Thanks to me :)>
+    <Thanks to me and i guess my students :)>
 
 # TECHNOLOGY COLOPHON
 
