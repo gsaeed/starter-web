@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work.  Github diff test
 ## Introduction 
 
 Fake intro text
+More fake lines
 
 ## Purpose
 adding some fake purpose
