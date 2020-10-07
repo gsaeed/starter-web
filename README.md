@@ -22,4 +22,4 @@ please fork this repo and issue pull requests for review
 
 ## Copyright
 
-gc Copyright
+gc Copyright nice
